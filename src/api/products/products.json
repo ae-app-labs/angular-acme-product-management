@@ -1,0 +1,42 @@
+[
+    {
+        "productId": 2,
+        "productName": "garden cart",
+        "productCode" : "GDN-0023",
+        "releaseDate": "March 18, 2021",
+        "description": "15 gallon capacity tank",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "assets/images/garden_cart.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Hammer",
+        "productCode" : "TSX-0023",
+        "releaseDate": "March 21, 2021",
+        "description": "steel hammer",
+        "price": 8.99,
+        "starRating": 4.8,
+        "imageUrl": "assets/images/hammer.jpg"
+    },
+    {
+        "productId": 6,
+        "productName": "Garden Cart 2",
+        "productCode": "GC-0023",
+        "releaseDate": "March 18, 2023",
+        "description": "15 gallon rolling garden cart",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "assets/images/garden_cart.jpg"
+    },
+    {
+        "productId": 8,
+        "productName": "Hammer2",
+        "productCode": "TAX-0023",
+        "releaseDate": "March 18, 2023",
+        "description": "Curved claw stel hammer",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "assets/images/hammer.jpg"
+    }
+]
