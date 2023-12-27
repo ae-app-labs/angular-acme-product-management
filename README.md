@@ -27,7 +27,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-## Create Shard module
+## Generate new Angular application
 
-`ng g m shared/shared --flat -m products/product.module`
+`ng new hello-world --prefix hw`
 
+### Commands
+- Components `ng g c <name>`
+- Directives `ng g d <name>`
+- Route Guards `ng g g <name>`
+- Interfaces `ng g i <name>`
+- Modules `ng g m <name>`
+- Pipes `ng g p <name>`
+- Services `ng g s <name>`
+
+eg `ng g m shared/shared --flat -m products/product.module`

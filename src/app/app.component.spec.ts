@@ -15,7 +15,7 @@ describe('AppComponent', () => {
   it(`should have as title 'angular-apm'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('angular-apm');
+    expect(app.pageTitle).toEqual('Acme Product Management');
   });
 
   it('should render title', () => {
